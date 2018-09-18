@@ -6,5 +6,9 @@ Describing you, hobbies, interests etc
   - [x] create index.html
     - [x] added basic boilerplate
 - Case Study To Do list
-- [x] Make a title
-- [] input images of flags
+- [] Make a title
+- [] Input images of flags
+- [] Get videos Ukrainian text
+- [] PLaces I want to travel too
+- [] Get pictures of my interets, hobbies
+- [] Make a backround
