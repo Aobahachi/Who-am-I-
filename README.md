@@ -12,3 +12,4 @@ Describing you, hobbies, interests etc
 - [] PLaces I want to travel too
 - [] Get pictures of my interets, hobbies
 - [] Make a backround
+- [] Make sure each picture/item has a description explaining what it is
