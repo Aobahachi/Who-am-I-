@@ -13,3 +13,6 @@ Describing you, hobbies, interests etc
 - [] Get pictures of my interets, hobbies
 - [] Make a backround
 - [] Make sure each picture/item has a description explaining what it is
+
+### Image resizing Links
+- Online Tools http://resizeimage.net/ http://webresizer.com/
